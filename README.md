@@ -15,5 +15,5 @@ como programador y dispuesto a colaborar en equipo para adquirir experiencia pr√
 
 ## Mis notas de lectura
 
-- :expressionless: [Midset](./mindset.md)
-- :expressionless: [Read06](./read06.md)
+- [Midset](./mindset.md)
+- [Read06](./read06.md)
