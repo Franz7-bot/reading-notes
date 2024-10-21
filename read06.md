@@ -8,11 +8,9 @@
 - `mkdir`: Crea un nuevo directorio.
 - `touch`: Crea un archivo vacío o actualiza la fecha y hora de un archivo existente.
 
-## Escenario en la línea de comandos
+## ¿Puedes explicar qué sucede en el siguiente escenario si ingresas estos comandos y argumentos en la línea de comandos? (Los argumentos son instrucciones adicionales dadas a un comando).
 
-A continuación se explica lo que sucede si ingresas estos comandos y argumentos en la línea de comandos:
-
-1. <span style="color:blue">cd projects</span>   
+1. `cd projects` 
    Cambia el directorio actual a la carpeta "projects" (si existe en el directorio actual).
 
 2. `mkdir new-project`  
@@ -27,9 +25,9 @@ A continuación se explica lo que sucede si ingresas estos comandos y argumentos
 5. `ls projects/new-project`  
    Lista los archivos dentro de "new-project", mostrando "newfile.md".
 
-## Listar archivos ocultos en Linux o macOS
+## ¿Qué comando usarías en la terminal para listar todos los archivos, incluidos los archivos ocultos, en un directorio de Linux o macOS? Explica qué significan los parámetros utilizados en el comando.
 
-Para listar todos los archivos, incluidos los ocultos, en un directorio de Linux o macOS, usarías el siguiente comando:
+- `ls`: Lista el contenido de un directorio.
+- `a`: Muestra todos los archivos, incluidos los ocultos (los archivos ocultos en Linux o macOS comienzan con un punto)
 
-```bash
-ls -a
+[Regresar](/
