@@ -10,4 +10,4 @@ El Growth Mindset o "mentalidad de crecimiento" es un concepto desarrollado por 
 
 - **Los desafíos son oportunidades, no obstáculos:** Cada vez que enfrentes un reto, recuérdate que superar dificultades es lo que te hará crecer y desarrollar nuevas habilidades.
 
-[**Enlace al Readme**](./README.md)
+[**Regresar**](./README.md)
