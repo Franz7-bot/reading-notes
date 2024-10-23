@@ -20,3 +20,5 @@ el historial de versiones y la información de las ramas, lo que permite trabaja
 
 - `git push`Es un comando que se usa para agregar todos los archivos comprometidos en el repositorio local al repositorio remoto.
 - `git push origin <nombre-de-la-rama>`
+
+[Regresar](./README.md)
