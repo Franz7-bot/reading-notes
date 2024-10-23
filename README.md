@@ -17,3 +17,4 @@ como programador y dispuesto a colaborar en equipo para adquirir experiencia pr√
 
 - [Midset](./mindset.md)
 - [Read06](./read06.md)
+- [Read07](./read07.md)
