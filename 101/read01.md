@@ -19,3 +19,5 @@ La web funciona mediante la comunicación entre servidores y clientes a través 
 2. El navegador envía una solicitud HTTP al servidor que aloja la página.
 3. El servidor responde con los archivos (HTML, CSS, JavaScript) necesarios.
 4. El navegador interpreta los archivos y los muestra como una página interactiva.
+
+[Regresar](../README.md)

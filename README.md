@@ -16,5 +16,14 @@ como programador y dispuesto a colaborar en equipo para adquirir experiencia pr√
 ## Mis notas de lectura
 
 - [Midset](./mindset.md)
-- [Read06](./101/read06.md)
-- [Read07](./101/read07.md)
+- [Mis Notas de lectura clase 1](./101/read01.md)
+- [Mis Notas de lectura clase 2](./101/read02.md)
+- [Mis Notas de lectura clase 3](./101/read03.md)
+- [Mis Notas de lectura clase 4](./101/read04.md)
+- [Mis Notas de lectura clase 5](./101/read05.md)
+- [Mis Notas de lectura clase 6](./101/read06.md)
+- [Mis Notas de lectura clase 7](./101/read07.md)
+- [Mis Notas de lectura clase 8](./101/read08.md)
+- [Mis Notas de lectura clase 9](./101/read09.md)
+- [Mis Notas de lectura clase 10](./101/read10.md)
+- [Mis Notas de lectura clase 11](./101/read11.md)

@@ -25,3 +25,5 @@
 ## 5. ¿Cómo contribuye CSS a lograr que el wireframe elaborado pueda ser desarrollado en una página web?
 
 - CSS permite transformar un wireframe en una página web funcional y visualmente coherente. CSS permite dar estilo y formato a los elementos definidos en el wireframe, permitiendo que el diseño sea atractivo, adaptativo y organizado.
+
+[Regresar](../README.md)

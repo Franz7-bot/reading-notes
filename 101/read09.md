@@ -27,4 +27,4 @@
 
 - Se declara variables utilizando las palabras clave (var, let y const)
 
-[Regresar](./README.md)
+[Regresar](../README.md)

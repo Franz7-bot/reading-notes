@@ -30,4 +30,4 @@
 - `ls`: Lista el contenido de un directorio.
 - `a`: Muestra todos los archivos, incluidos los ocultos (los archivos ocultos en Linux o macOS comienzan con un punto)
 
-[Regresar](./README.md)
+[Regresar](../README.md)
