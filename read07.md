@@ -1,4 +1,4 @@
-# READ 07: Control de Versioness
+# READ 07: Control de Versiones
 
 ## ¿Qué es el control de versiones?
 
