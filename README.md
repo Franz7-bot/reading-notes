@@ -16,5 +16,5 @@ como programador y dispuesto a colaborar en equipo para adquirir experiencia prÃ
 ## Mis notas de lectura
 
 - [Midset](./mindset.md)
-- [Read06](./read06.md)
-- [Read07](./read07.md)
+- [Read06](./101/read06.md)
+- [Read07](./101/read07.md)
