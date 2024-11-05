@@ -1,4 +1,4 @@
-# READ 10: Arreglos y Control de Flujo
+# READ 11: Introducción al DOM Reflexiona y debate
 
 ## ¿Qué es el DOM?
 
